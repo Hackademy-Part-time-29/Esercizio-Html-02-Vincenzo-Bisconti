@@ -1,0 +1,30 @@
+body {
+    background-color:red;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    height: 100vh;
+  }
+  h1 {
+    color: #000066;
+    font-size: 36px;
+    text-align: center;
+  }
+  p {
+    color: #000000;
+    font-size: 18px;
+  }
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #FF9900;
+  }
+  .btn {
+    background-color: #FF9900;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 20px;
+  }
